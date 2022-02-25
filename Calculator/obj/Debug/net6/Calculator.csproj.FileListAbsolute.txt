@@ -1,0 +1,15 @@
+C:\Projetos\Balta\FUNDAMENTOSC\Calculator\bin\Debug\net6\Calculator.exe
+C:\Projetos\Balta\FUNDAMENTOSC\Calculator\bin\Debug\net6\Calculator.deps.json
+C:\Projetos\Balta\FUNDAMENTOSC\Calculator\bin\Debug\net6\Calculator.runtimeconfig.json
+C:\Projetos\Balta\FUNDAMENTOSC\Calculator\bin\Debug\net6\Calculator.dll
+C:\Projetos\Balta\FUNDAMENTOSC\Calculator\bin\Debug\net6\Calculator.pdb
+C:\Projetos\Balta\FUNDAMENTOSC\Calculator\obj\Debug\net6\Calculator.csproj.AssemblyReference.cache
+C:\Projetos\Balta\FUNDAMENTOSC\Calculator\obj\Debug\net6\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Balta\FUNDAMENTOSC\Calculator\obj\Debug\net6\Calculator.AssemblyInfoInputs.cache
+C:\Projetos\Balta\FUNDAMENTOSC\Calculator\obj\Debug\net6\Calculator.AssemblyInfo.cs
+C:\Projetos\Balta\FUNDAMENTOSC\Calculator\obj\Debug\net6\Calculator.csproj.CoreCompileInputs.cache
+C:\Projetos\Balta\FUNDAMENTOSC\Calculator\obj\Debug\net6\Calculator.dll
+C:\Projetos\Balta\FUNDAMENTOSC\Calculator\obj\Debug\net6\refint\Calculator.dll
+C:\Projetos\Balta\FUNDAMENTOSC\Calculator\obj\Debug\net6\Calculator.pdb
+C:\Projetos\Balta\FUNDAMENTOSC\Calculator\obj\Debug\net6\Calculator.genruntimeconfig.cache
+C:\Projetos\Balta\FUNDAMENTOSC\Calculator\obj\Debug\net6\ref\Calculator.dll
